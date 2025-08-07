@@ -38,8 +38,8 @@ rails db:seed
 # Run the server
 rails server
 
-## 📍 Feature Roadmap
 ```
+## 📍 Feature Roadmap
 
 | **Phase**              | **Goal**                              | **Key Features** |
 |------------------------|----------------------------------------|------------------|
